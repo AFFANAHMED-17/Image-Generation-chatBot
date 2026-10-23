@@ -1,4 +1,4 @@
-# SaaS Subscription Billing Platform
+# Image Generation chatBot with QueryTracking and Subscription Tracking
 
 A complete cloud-native SaaS boilerplate with React, FastAPI, and Docker.
 
